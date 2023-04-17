@@ -1,7 +1,7 @@
 # Identificação de Autoria
 
-- Nome: *\<inserir nome>*
-- E-mail: *\<inserir e-mail>*
+- Nome: Guilherme Nanini da Silva Oliveira
+- E-mail: *gnanini@gmail.com*
 
 --------
 &copy; DIMAp/IMD UFRN 2023

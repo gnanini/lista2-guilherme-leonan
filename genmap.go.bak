@@ -89,4 +89,4 @@ func printMap(mapa Map) {
 }
 
 
-// PS: Professor, compilei o programa usando o gccgo (pq a sintaxe se parece com a do gcc "gccgo -Wall genmap.go -o genmap") larquei até um binário aí... acho que não haverá problemas 
+// PS: Professor, compilei o programa usando o gccgo (pq achei a sintaxe mais simples "g
